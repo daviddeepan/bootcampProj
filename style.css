@@ -1,0 +1,98 @@
+.rectangle-4{
+    
+    position: absolute;
+    width: 1521.10px;
+    height: 953px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(154, 210, 222, 0.95);
+    mix-blend-mode: hard-light;
+    }
+    
+    
+.frame{
+    
+    position: absolute;
+    width: 100%;
+    height: auto;
+    left: 0px;
+    top: 0px;
+}
+
+
+.back-ground{
+    
+    position: absolute;
+    width: 1521.10px;
+    height: 953px;
+    left: 0px;
+    top: 6px;
+    
+    
+    border: 0px solid #000000;
+    box-sizing: border-box;
+    backdrop-filter: blur(4px);
+}
+
+.rectangle-3{
+    
+position: absolute;
+width: 1521.10px;
+height: 50px;
+left: 0px;
+top: 953px;
+
+background: #c9c4c4;
+}
+
+
+
+.text{
+    position: absolute;
+    width: 595px;
+    height: 107px;
+    left: 144px;
+    top: 251px;
+    
+    font-family: Denk One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 135px;
+    line-height: 200px;
+    
+    color: #067880;
+}
+.text-2{
+    position: absolute;
+    width: 565px;
+    height: 175px;
+    left: 144px;
+    top: 435px;
+    
+    font-family: Denk One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 135px;
+    line-height: 200px;
+    
+    color: #067880;  
+}
+
+.sign{
+    position: absolute;
+width: 58px;
+height: 53px;
+left: 40px;
+top: 28px;
+
+font-family: 'Press Start 2P';
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 50px;
+
+color: #37D4DE;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
